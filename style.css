@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: red;
+    display: flex;
+    color: white;
+    height: 6rem;
+    width: 100vw;
+    font-family: 'Julee', cursive;
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+}
